@@ -1,0 +1,7 @@
+Transaction_ID,Product,Price,Quantity,Date
+101,Laptop,1200,1.0,2023-10-01
+102,Mouse,25,2.0,2023-10-01
+103,Monitor,300,,2023-10-02
+104,Keyboard,80,1.0,2023-10-03
+105,Laptop,1200,1.0,2023-10-04
+105,Laptop,1200,1.0,2023-10-04
